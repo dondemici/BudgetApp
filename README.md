@@ -19,3 +19,5 @@ Proposed Solutions
 
 Conclusion
 This budget app aims to address the shortcomings of both manual Excel-based budgeting and existing financial management apps by focusing on user-centric solutions. Through seamless integration, engaging features, actionable insights, and streamlined bill management, the app will provide a comprehensive and sustainable tool for managing personal finances effectively. By leveraging modern technology and innovative design, this app has the potential to stand out in a crowded market and truly meet users’ needs.
+
+Matheus Filipe Figueiredo.
